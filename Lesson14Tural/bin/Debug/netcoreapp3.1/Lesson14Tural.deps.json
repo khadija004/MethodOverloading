@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson14Tural/1.0.0": {
+        "runtime": {
+          "Lesson14Tural.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson14Tural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

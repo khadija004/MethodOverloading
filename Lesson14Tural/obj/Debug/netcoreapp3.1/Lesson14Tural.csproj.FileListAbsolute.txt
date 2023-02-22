@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\bin\Debug\netcoreapp3.1\Lesson14Tural.exe
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\bin\Debug\netcoreapp3.1\Lesson14Tural.deps.json
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\bin\Debug\netcoreapp3.1\Lesson14Tural.runtimeconfig.json
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\bin\Debug\netcoreapp3.1\Lesson14Tural.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\bin\Debug\netcoreapp3.1\Lesson14Tural.dll
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\bin\Debug\netcoreapp3.1\Lesson14Tural.pdb
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.dll
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.pdb
+C:\Users\LENOVO\Desktop\LessonTural\Lesson14Tural\Lesson14Tural\obj\Debug\netcoreapp3.1\Lesson14Tural.genruntimeconfig.cache
